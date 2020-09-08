@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "570985773654",
+    "firebase_url": "https://laid-69.firebaseio.com",
+    "project_id": "laid-69",
+    "storage_bucket": "laid-69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570985773654:android:bfbd92b0f92fcca34359f7",
+        "android_client_info": {
+          "package_name": "com.example.laid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570985773654-0lboh88qla0kt03rdvvqc6tc3c7gui42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laid",
+            "certificate_hash": "4d99b3ff5e43379161501994619c4f1150c80f6d"
+          }
+        },
+        {
+          "client_id": "570985773654-8qm9anf185ickkvvctgva8c1pabfdasp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-HF-2pnaub7Gs8_c6ZDnIdXsEiU-tQeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570985773654-8qm9anf185ickkvvctgva8c1pabfdasp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
