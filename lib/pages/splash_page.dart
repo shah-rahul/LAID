@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:laid/pages/HomePage.dart';
 import 'package:provider/provider.dart';
-import 'package:laid/pages/home_page.dart';
+// import 'package:laid/pages/home_page.dart';
 import 'package:laid/pages/login_page.dart';
 import 'package:laid/stores/login_store.dart';
 import 'package:laid/theme.dart';
