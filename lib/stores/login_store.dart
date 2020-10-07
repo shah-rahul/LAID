@@ -1,6 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:laid/pages/HomePage.dart';
+import 'package:laid/pages/formpage.dart';
 import 'package:mobx/mobx.dart';
 // import 'package:laid/pages/home_page.dart';
 import 'package:laid/pages/login_page.dart';
@@ -126,7 +127,7 @@ abstract class LoginStoreBase with Store {
     firebaseUser = result.user;
 
     Navigator.of(context).pushAndRemoveUntil(
-        MaterialPageRoute(builder: (_) => const HomePage()),
+        MaterialPageRoute(builder: (_) => SignInForm()),
         (Route<dynamic> route) => false);
 
     isLoginLoading = false;

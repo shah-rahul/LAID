@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:laid/pages/MohitB.dart';
+import 'package:laid/pages/authentication_page.dart';
 import 'package:widget_animator/widget_animator.dart';
 
 class Page2 extends StatefulWidget {

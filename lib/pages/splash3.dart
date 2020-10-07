@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:widget_animator/widget_animator.dart';
 
-import 'MohitB.dart';
+import 'authentication_page.dart';
 
 class Page3 extends StatefulWidget {
   Page3({Key key}) : super(key: key);
